@@ -1,0 +1,42 @@
+.app-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+  background: #f4f6f9;
+  min-height: 100vh;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #2563eb;
+}
+
+.counter-box {
+  background: white;
+  border-radius: 12px;
+  padding: 15px;
+  margin-bottom: 20px;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.hook-box {
+  background: white;
+  border-left: 6px solid #2563eb;
+  border-radius: 12px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.hook-box h2 {
+  margin-top: 0;
+  color: #1e293b;
+}
+
+.hook-box p {
+  color: #475569;
+  margin-bottom: 15px;
+  line-height: 1.5;
+}
